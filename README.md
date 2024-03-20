@@ -6,13 +6,13 @@ O sistema deverá auxiliar uma empresa de fretes, fazendo controle dos clientes 
 
 # Equipe
 Líder: João Pedro Andolpho
-Atribuições: Organização geral do projeto, Desenvolvimento da parte de leitura/escrita de XML
+(Atribuições: Organização geral do projeto, Desenvolvimento da parte de leitura/escrita de XML)
 
 Membro: Deivid Brito
-Atribuição: Desenvolvimento dos módulos de Cliente e Pedido
+(Atribuição: Desenvolvimento dos módulos de Cliente e Pedido)
 
 Membro: Érika Santana
-Atribuição: Desenvolvimento da parte de Threads e Rede
+(Atribuição: Desenvolvimento da parte de Threads e Rede)
 
 Membro: Guilherme Crespo
-Atribuição: Desenvolvimento dos módulos de Funcionários e Veículos
+(Atribuição: Desenvolvimento dos módulos de Funcionários e Veículos)
